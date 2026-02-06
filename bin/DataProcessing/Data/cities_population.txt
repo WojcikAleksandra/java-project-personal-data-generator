@@ -1,0 +1,386 @@
+"Warszawa", 1702139
+"Lodz", 768755
+"Krakow", 755050
+"Wroclaw", 634893
+"Poznan", 570352
+"Gdansk", 461865
+"Szczecin", 407811
+"Bydgoszcz", 366452
+"Lublin", 360044
+"Katowice", 317316
+"Bialystok", 291855
+"Gdynia", 253730
+"Czestochowa", 248125
+"Sosnowiec", 227295
+"Radom", 226794
+"Torun", 208717
+"Kielce", 208598
+"Gliwice", 198835
+"Zabrze", 192177
+"Bytom", 189186
+"Bielsko-Biala", 176515
+"Olsztyn", 171803
+"Rzeszow", 158382
+"Ruda Slaska", 146189
+"Rybnik", 142510
+"Dabrowa Gornicza", 130601
+"Tychy", 130000
+"Opole", 127676
+"Elblag", 127558
+"Plock", 127474
+"Walbrzych", 127431
+"Gorzow Wielkopolski", 124430
+"Wloclawek", 120339
+"Zielona Gora", 118433
+"Tarnow", 117799
+"Chorzow", 113430
+"Kalisz", 108759
+"Koszalin", 107450
+"Legnica", 106033
+"Grudziadz", 99486
+"Slupsk", 98608
+"Jaworzno", 96541
+"Jastrzebie Zdroj", 95813
+"Jelenia Gora", 87310
+"Nowy Sacz", 84376
+"Konin", 81258
+"Piotrkow Trybunalski", 80128
+"Inowroclaw", 77597
+"Lubin", 77532
+"Siedlce", 77185
+"Pila", 75532
+"Myslowice", 75281
+"Ostrowiec Swietokrzyski", 73989
+"Siemianowice Slaskie", 73121
+"Ostrow Wielkopolski", 72898
+"Stargard", 71224
+"Pabianice", 70542
+"Gniezno", 70269
+"Fordon", 70000
+"Suwalki", 69222
+"Glogow", 68530
+"Chelm", 68043
+"Tomaszow Mazowiecki", 67197
+"Przemysl", 67013
+"Stalowa Wola", 66495
+"Zamosc", 66034
+"Kedzierzyn-Kozle", 65636
+"Lomza", 63723
+"Leszno", 63565
+"Zory", 63174
+"Belchatow", 62896
+"Wawer", 62656
+"Mielec", 60993
+"Tarnowskie Gory", 60938
+"Swidnica", 60351
+"Tczew", 60133
+"Piekary Slaskie", 59757
+"Raciborz", 58464
+"Bedzin", 58236
+"Zgierz", 58036
+"Biala Podlaska", 57541
+"Elk", 55769
+"Swietochlowice", 55600
+"Pruszkow", 55371
+"Ostroleka", 53740
+"Starachowice", 53739
+"Zawiercie", 53159
+"Legionowo", 50786
+"Tarnobrzeg", 50459
+"Pulawy", 49759
+"Wodzislaw Slaski", 49521
+"Skarzysko-Kamienna", 49410
+"Radomsko", 49175
+"Skierniewice", 49042
+"Kutno", 48323
+"Starogard Gdanski", 48202
+"Krosno", 47784
+"Debica", 47366
+"Nysa", 47283
+"Wejherowo", 46820
+"Ciechanow", 46438
+"Rumia", 44791
+"Zdunska Wola", 44515
+"Sieradz", 44436
+"Kolobrzeg", 44377
+"Otwock", 43388
+"Zyrardow", 41179
+"Oswiecim", 41143
+"Swinoujscie", 40919
+"Boleslawiec", 40682
+"Nowa Sol", 40354
+"Sopot", 40142
+"Jaroslaw", 40134
+"Swidnik", 40050
+"Chrzanow", 39973
+"Knurow", 39744
+"Sanok", 39684
+"Chojnice", 39407
+"Mikolow", 38821
+"Zary", 38779
+"Malbork", 38655
+"Szczecinek", 38496
+"Sochaczew", 38267
+"Brzeg", 38259
+"Jaslo", 37851
+"Olkusz", 37744
+"Kwidzyn", 37601
+"Minsk Mazowiecki", 37027
+"Olesnica", 36956
+"Wolomin", 36592
+"Piaseczno", 36278
+"Wlochy", 36276
+"Krasnik", 35834
+"Cieszyn", 35586
+"Lebork", 35161
+"Czechowice-Dziedzice", 34703
+"Police", 34350
+"Czeladz", 34308
+"Dzierzoniow", 34168
+"Nowy Targ", 33763
+"Ostroda", 33524
+"Myszkow", 33273
+"Zgorzelec", 33247
+"Ilawa", 32557
+"Zywiec", 32132
+"Olawa", 30898
+"Bielawa", 30824
+"Lukow", 30465
+"Srem", 30404
+"Gizycko", 29972
+"Lowicz", 29809
+"Augustow", 29752
+"Turek", 29533
+"Mlawa", 29398
+"Krotoszyn", 29231
+"Bochnia", 29184
+"Swarzedz", 29010
+"Czerwionka-Leszczyny", 28740
+"Wrzesnia", 28703
+"Gorlice", 28609
+"Gierloz", 28351
+"Ketrzyn", 28171
+"Klodzko", 27941
+"Nowy Dwor Mazowiecki", 27633
+"Zakopane", 27580
+"Brodnica", 27341
+"Bilgoraj", 26987
+"Grodzisk Mazowiecki", 26684
+"Wyszkow", 26628
+"Bielsk Podlaski", 26493
+"Lubon", 26431
+"Zagan", 26251
+"Szczytno", 26044
+"Kluczbork", 25978
+"Walcz", 25971
+"Swiecie", 25843
+"Jarocin", 25665
+"Bartoszyce", 25660
+"Pszczyna", 25288
+"Sandomierz", 25087
+"Nowa Ruda", 24753
+"Wagrowiec", 24428
+"Wielun", 24384
+"Bialogard", 24265
+"Lubliniec", 24133
+"Koscian", 24096
+"Jawor", 23865
+"Skawina", 23647
+"Pruszcz Gdanski", 23618
+"Kolo", 23493
+"Zabki", 23473
+"Koscierzyna", 23361
+"Prudnik", 23343
+"Piastow", 23290
+"Swiebodzice", 23228
+"Marki", 23177
+"Zambrow", 22857
+"Lubartow", 22839
+"Grajewo", 22803
+"Ostrow Mazowiecka", 22653
+"Opoczno", 22592
+"Goleniow", 22505
+"Luban", 22245
+"Plonsk", 22217
+"Hajnowka", 22157
+"Laziska Gorne", 21983
+"Mragowo", 21965
+"Andrychow", 21954
+"Rembertow", 21893
+"Rydultowy", 21887
+"Swiebodzin", 21757
+"Sroda Wielkopolska", 21757
+"Kamienna Gora", 21743
+"Leczna", 21719
+"Polkowice", 21565
+"Rawicz", 21380
+"Gryfino", 21270
+"Dzialdowo", 21127
+"Gostyn", 20771
+"Konskie", 20756
+"Ozorkow", 20608
+"Chelmno", 20576
+"Aleksandrow Lodzki", 20292
+"Tomaszow Lubelski", 20261
+"Strzelce Opolskie", 20241
+"Wesola", 20000
+"Pionki", 19966
+"Chodziez", 19776
+"Bierun", 19659
+"Naklo nad Notecia", 19565
+"Krasnystaw", 19532
+"Kety", 19249
+"Wadowice", 19238
+"Pisz", 19232
+"Sokolka", 19079
+"Pultusk", 19039
+"Pyskowice", 19018
+"Gostynin", 18976
+"Sierpc", 18866
+"Trzebinia", 18828
+"Bogatynia", 18688
+"Wieliczka", 18677
+"Kozienice", 18677
+"Miedzyrzecz", 18669
+"Hrubieszow", 18605
+"Szamotuly", 18588
+"Lask", 18577
+"Orzesze", 18438
+"Sulejowek", 18414
+"Zlotow", 18395
+"Braniewo", 18356
+"Krapkowice", 18275
+"Lancut", 18266
+"Sokolow Podlaski", 18241
+"Reda", 18116
+"Kostrzyn nad Odra", 18099
+"Sulechow", 18055
+"Oborniki", 17915
+"Jozefow", 17910
+"Libiaz", 17834
+"Deblin", 17775
+"Rawa Mazowiecka", 17770
+"Myslenice", 17686
+"Kobylka", 17659
+"Pleszew", 17640
+"Slubice", 17567
+"Zielonka", 17518
+"Radlin", 17479
+"Konstantynow Lodzki", 17415
+"Radzionkow", 17167
+"Miedzyrzec Podlaski", 17158
+"Busko-Zdroj", 17095
+"Strzegom", 17004
+"Trzcianka", 16914
+"Brzesko", 16866
+"Jedrzejow", 16792
+"Boguszow-Gorce", 16726
+"Bytow", 16724
+"Gryfice", 16720
+"Przasnysz", 16718
+"Nowogard", 16703
+"Gubin", 16629
+"Zlotoryja", 16612
+"Rypin", 16589
+"Konstancin-Jeziorna", 16548
+"Lidzbark Warminski", 16540
+"Lapy", 16434
+"Namyslow", 16376
+"Zabkowice Slaskie", 16321
+"Ledziny", 16305
+"Ustka", 16250
+"Staszow", 16137
+"Swidwin", 16076
+"Radzyn Podlaski", 16071
+"Olecko", 15923
+"Garwolin", 15912
+"Przeworsk", 15805
+"Milanowek", 15784
+"Choszczno", 15733
+"Ustron", 15637
+"Nisko", 15573
+"Leczyca", 15528
+"Siemiatycze", 15421
+"Chelmza", 15403
+"Jelcz Laskowice", 15340
+"Lomianki", 15315
+"Jelcz", 15308
+"Ropczyce", 15279
+"Nowy Tomysl", 15179
+"Solec Kujawski", 15125
+"Glucholazy", 15120
+"Glowno", 15103
+"Kartuzy", 15002
+"Cieplice Slaskie Zdroj", 15000
+"Lubsko", 14994
+"Wladyslawowo", 14889
+"Grojec", 14880
+"Lipno", 14821
+"Kepno", 14813
+"Skoczow", 14810
+"Kozle", 14780
+"Czluchow", 14759
+"Morag", 14745
+"Nidzica", 14720
+"Limanowa", 14714
+"Slupca", 14476
+"Wschowa", 14458
+"Ostrzeszow", 14446
+"Darlowo", 14398
+"Barlinek", 14385
+"Chojnow", 14209
+"Wilanow", 14032
+"Pszow", 14028
+"Znin", 14008
+"Lezajsk", 13958
+"Wabrzezno", 13911
+"Grodzisk Wielkopolski", 13826
+"Debno", 13804
+"Goldap", 13769
+"Glubczyce", 13697
+"Wolsztyn", 13689
+"Tuchola", 13686
+"Niedobczyce", 13500
+"Slawno", 13415
+"Zdzieszowice", 13401
+"Koluszki", 13343
+"Zlocieniec", 13337
+"Klobuck", 13190
+"Wlodawa", 13142
+"Rabka-Zdroj", 13071
+"Golub-Dobrzyn", 12937
+"Pyrzyce", 12893
+"Szprotawa", 12786
+"Brzeg Dolny", 12689
+"Gora", 12668
+"Lubaczow", 12595
+"Wegrow", 12512
+"Mogilno", 12465
+"Wolin", 12438
+"Strzelin", 12394
+"Mosina", 12318
+"Brwinow", 12315
+"Aleksandrow Kujawski", 12290
+"Brzeziny", 12289
+"Wolow", 12276
+"Krynica-Zdroj", 12270
+"Paslek", 12267
+"Trzebnica", 12212
+"Blonie", 12195
+"Krosno Odrzanskie", 12178
+"Milicz", 12169
+"Szydlowiec", 12128
+"Mysliborz", 12092
+"Kozy", 11920
+"Wegorzewo", 11864
+"Kowary", 11834
+"Janow Lubelski", 11811
+"Pinczow", 11806
+"Brzeszcze", 11787
+"Miechow", 11735
+"Czarnkow", 11562
+"Nowa Deba", 11489
+"Wronki", 11462
+"Puck", 11415
+"Wisla", 11379
+"Dabrowa Tarnowska", 11291
