@@ -3,6 +3,8 @@
 This application is used to generate a list of fictional personal data and export it to an Excel file (in XLS or XLSX format).  
 The number of generated persons and the preferred file format are specified by the user in the graphical user interface of the application.
 
+This project was developed as part of the Advanced Object and Functional Programming academic course as a group project.
+
 ## Generated elements
 * *First and last name*  
   Combinations of first names and last names are generated randomly from lists of the most popular first names and surnames in Poland, taking into account both female and male forms.
@@ -30,3 +32,4 @@ The user interface contains a window in which the results of the application run
 The compilation time in milliseconds is expressed by the formula:  
 **0.1 * n * a**, where **5 > a > 0.2**, and **n** is the number of persons to be generated.  
 The formula may work poorly for small values of **n**, but in such cases the execution time is of little interest.
+
