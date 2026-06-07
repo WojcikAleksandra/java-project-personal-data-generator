@@ -5,6 +5,10 @@ The number of generated persons and the preferred file format are specified by t
 
 The project was developed as part of the *Advanced Object and Functional Programming* course at Warsaw University of Technology as a group assignment.
 
+Authors:
+- Michał Szewczak ([@MichalSzewczak](https://github.com/M-SZEWCZAK))
+- Aleksandra Wójcik ([@AleksandraWojcik](https://github.com/WojcikAleksandra))
+
 ## Generated elements
 * *First and last name*  
   Combinations of first names and last names are generated randomly from lists of the most popular first names and surnames in Poland, taking into account both female and male forms.
